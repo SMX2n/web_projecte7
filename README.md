@@ -1,5 +1,7 @@
 # Proposta web per FoodLogistic
 
+![Logo](FoodLogisticLogo.png)
+
 Autors: [nom dels components del grup]
 
 ## Descripció
